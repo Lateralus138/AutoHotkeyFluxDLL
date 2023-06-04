@@ -10,6 +10,10 @@ This is not officially released as the workflow is not complete and it's a work 
 
 Coming soon!
 
+[codefactor.io/AutoHotkeyFluxDLL](https://www.codefactor.io/repository/github/lateralus138/AutoHotkeyFluxDLL)
+
+![](https://img.shields.io/codefactor/grade/github/Lateralus138/AutoHotkeyFluxDLL/master?style=for-the-badge&labelColor=1D1D1D&color=ffff99)
+
 ## [LICENSE](./LICENSE)
 
 ![License Info](https://img.shields.io/github/license/Lateralus138/unishellectv2?style=for-the-badge&labelColor=1D1D1D&color=ffff99)
